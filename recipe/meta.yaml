@@ -36,9 +36,9 @@ about:
   license: MIT
   license_file: LICENSE
   description: |
-    ![genespeak-banner][#repo-banner]
+    ![genespeak-banner][_repo-banner]
 
-    [#repo-banner]: https://raw.githubusercontent.com/sugatoray/genespeak/master/docs/assets/images/genespeak_banner_01.png
+    [_repo-banner]: https://raw.githubusercontent.com/sugatoray/genespeak/master/docs/assets/images/genespeak_banner_01.png
     
     GeneSpeak allows you to encode regular text as DNA using 
     base-pairs (`A`, `C`, `G`, `T`) and convert back to the 
