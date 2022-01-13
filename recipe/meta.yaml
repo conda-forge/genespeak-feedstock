@@ -36,12 +36,16 @@ about:
   license: MIT
   license_file: LICENSE
   description: |
+    ![genespeak-banner][#repo-banner]
+
+    [#repo-banner]: https://raw.githubusercontent.com/sugatoray/genespeak/master/docs/assets/images/genespeak_banner_01.png
+    
     GeneSpeak allows you to encode regular text as DNA using 
-    base-pairs (`A`, `T`, `G`, `C`) and convert back to the 
+    base-pairs (`A`, `C`, `G`, `T`) and convert back to the 
     original text. Text encoding is done for both `ascii` and 
     `utf-8` characters based on the `strategy` keyword argument.
 
-    PyPI: <https://pypi.org/project/genespeak/>
+    PyPI: [https://pypi.org/project/genespeak/](https://pypi.org/project/genespeak/)
 
   doc_url: https://sugatoray.github.io/genespeak/
   dev_url: https://github.com/sugatoray/genespeak/
